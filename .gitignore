@@ -1,0 +1,5 @@
+.idea/
+dataset/
+*.h5
+*.tflite
+__pycache__/
